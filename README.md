@@ -13,12 +13,14 @@ I'm a computer programming student at UQAR, former 42Quebec student and Full-Sta
 
 ### 📂 Featured Projects
 <!-- #### 🐙 GitHub Projects -->
-* **Inforoute_TP1**: A project that merge django back-end and React front-end. It imports Quebec City education data, stores it in a database and accesses it via a website.
-* **GestionFleur2**: An application used to manage a florist boutique using WPF.
-* **ViziofilmP1**: Designing of a netflix like plateform using UML and WPF and applying clean architecture to it.
-* **SFPI**: "Salon des Finances Personnelles et des Investissements (SFPI)" Static website for a fake event about personal finances and investments.
-* **fdf**: Project to render a height map using isometric perspective and wireframe view. 42 School project.
-* **push_swap**: 42 project consisting of sorting a pile of numbers using a certain set of instructions. Optimization done in steps rather than in time.
+* **[TP1CommerceElectronique](https://github.com/vboulang/TP1commerceElectronique)**: An online bookstore built with ASP.NET using Stripe. It imports data using ItBookStore API.
+* **[Inforoute_TP1](https://github.com/vboulang/Inforoute_TP1)**: A project that merge django back-end and React front-end. It imports Quebec City education data, stores it in a database and accesses it via a website.
+* **[GestionFleur2](https://github.com/vboulang/GestionFleur2)**: An application used to manage a florist boutique using WPF.
+* **[ViziofilmP1](https://github.com/vboulang/ViziofilmP1)**: Designing of a netflix like plateform using UML and WPF and applying clean architecture to it.
+* **[SFPI](https://github.com/vboulang/SFPI)**: "Salon des Finances Personnelles et des Investissements (SFPI)" Static website for a fake event about personal finances and investments.
+* **[fdf](https://github.com/vboulang/fdf)**: Project to render a height map using isometric perspective and wireframe view. 42 School project.
+* **[push_swap](https://github.com/vboulang/push_swap)**: 42 project consisting of sorting a pile of numbers using a certain set of instructions. Optimization done in steps rather than in time.
+* **[minishell](https://github.com/vboulang/minishell)**: 42 project that is replicating a bash shell.
 <!-- #### 🦊 GitLab Projects (External) -->
 
 ---
