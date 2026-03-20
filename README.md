@@ -25,13 +25,14 @@ I'm a computer programming student at UQAR, former 42Quebec student and Full-Sta
 
 ### 📫 Connect with me
 * **Email:** [boulangerv8@gmail.com](mailto:boulangerv8@gmail.com)
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vincent-boulanger-392856191)
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-boulanger-392856191)
 
 ---
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vboulang&layout=compact&theme=tokyonight" alt="Top Languages" height="180" /> 
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vboulang&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vboulang&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
